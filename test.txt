@@ -5,3 +5,7 @@ Marlena
 czy Marlena umie ;)
 
 hihi
+
+teœcik kolejnego branch'a
+
+mamy nowy commit
